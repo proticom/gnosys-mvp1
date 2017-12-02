@@ -1,3 +1,5 @@
+# GNOSYS.AI Blockchain
+
 import hashlib
 import json
 from time import time
